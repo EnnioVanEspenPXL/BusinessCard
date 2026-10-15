@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("        Ennio Van Espen");
+            Console.WriteLine("________________________________");
+            Console.ResetColor();
+            Console.WriteLine("Opleiding:  Graduaat Programmeren");
+            Console.WriteLine("klasgroep:  1PRO-A");
+            Console.WriteLine("favo taal:  C#");
         }
     }
 }
