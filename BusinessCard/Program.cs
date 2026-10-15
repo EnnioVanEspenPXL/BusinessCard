@@ -11,6 +11,7 @@
             Console.WriteLine("Opleiding:  Graduaat Programmeren");
             Console.WriteLine("klasgroep:  1PRO-A");
             Console.WriteLine("favo taal:  C#");
+            Console.WriteLine("vind pasta luek");
         }
     }
 }
